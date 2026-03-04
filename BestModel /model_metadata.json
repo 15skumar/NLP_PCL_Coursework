@@ -1,0 +1,6 @@
+{
+  "model_name": "roberta-base",
+  "max_len": 128,
+  "seed": 42,
+  "best_threshold": 0.32999999999999996
+}
